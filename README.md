@@ -621,11 +621,17 @@ Stats (to be confirmed):
 
 Tasks for service users:
 
-> To be confirm
+* Discuss situation with BRC volunteer
+* Establish a need for clothing
+* Provide sizing  
 
 Steps involves:
 
-> To be confirmeed
+1. Fire services calling CRCC
+1. Volunteers in person assess the needs of service users
+1. Volunteers offer clothing in varied sizes 
+1. Volunteers record on incident report sheet the number of packs and size provided 
+1. Incident form sent by post or email to local BRC office
 
 Who's involved:
 
@@ -634,7 +640,8 @@ Who's involved:
 
 Software systems, Red Cross are used:
 
-> To be confirmed
+* BRM
+* Excel
 
 Stats (to be confirmed):
 
@@ -645,11 +652,16 @@ Stats (to be confirmed):
 
 Tasks for service users:
 
-> To be confirm
+* Discuss situation with BRC volunteer
+* Establish a need for toilietries
 
 Steps involves:
 
-> To be confirmeed
+1. Fire services calling CRCC
+1. Volunteers in person assess the needs of service users
+1. Volunteers offer toiletries pack
+1. Volunteers record on incident report sheet the number of toiletries pack provided
+1. Incident form sent by post or email to local BRC office
 
 Who's involved:
 
@@ -658,7 +670,8 @@ Who's involved:
 
 Software systems, Red Cross are used:
 
-> To be confirmed
+* BRM
+* Excel
 
 Stats (to be confirmed):
 
@@ -742,7 +755,28 @@ Stats (to be confirmed):
 
 ### Transport and rehouse pets
 
-> To be confirmed
+Tasks for service users:
+
+* Discuss situation with BRC volunteer
+* Establish a need for a pet to be supported
+
+How is this service delivered now:
+
+1. Fire services calling CRCC
+1. Volunteers in person assess the needs of service users
+1. Volunteers offer pet carry case and pet supplies 
+1. Volunteers record on incident report sheet the number pet supplies provided
+1. Incident form sent by post or email to local BRC office
+
+Who's involved:
+
+* Crisis Response Contact Centre
+* Emergency response volunteers
+
+Software systems, Red Cross are used:
+
+* BRM
+* Excel
 
 ### Get supplies for a power cut
 
