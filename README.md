@@ -529,10 +529,12 @@ _18 services:_
 
 [Support with living costs in an emergency](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#support-with-living-costs-in-an-emergency)<br>
 [Find somewhere to sleep tonight](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#find-somewhere-to-sleep-tonight)<br>
+[Speak to someone following an emergency](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#Speak-to-someone-following-an-emergency)<br>
 [Get emergency clothes](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-emergency-clothes)<br>
 [Get emergency toiletries](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-emergency-toiletries)<br>
 [Get emergency food](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-emergency-food)<br>
 [Get medication delivered](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-medication-delivered)<br>
+[Transport to accomodation](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#Transport-to-accomodation)<br>
 [Transport and rehouse pets](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#transport-and-rehouse-pets)<br>
 [Get supplies for a power cut](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-supplies-for-a-power-cut)<br>
 [Request support at a domestic fire](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#request-support-at-a-domestic-fire)<br>
@@ -616,6 +618,34 @@ Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
+### Speak to someone following an emergency
+
+Tasks for service users: 
+
+1. Learn there is support available 
+2. Talk to emergency response volunteer
+
+How is this service delivered now: 
+
+* Agreements with local councils 
+* Agreements with fire services
+* Relationships with external partners 
+ 
+ Whos involved: 
+ 
+ * Crisis Response Contact Centre 
+ * Emergency response volunteers
+ 
+ Software systems, Red Cross are used:
+ 
+ > To be confirmed
+ 
+ Stats:
+ 
+ > To be confirmed
+
+
 
 ### Get emergency clothes
 
@@ -739,6 +769,12 @@ Stats (to be confirmed):
 
 * __475__ (2020) recent service users - (2017-2020, BRM)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
+### Transport to accomodation
+
+Tasks for service users:
+
+> to be confirmed 
 
 ### Transport and rehouse pets
 
