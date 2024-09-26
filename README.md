@@ -1021,6 +1021,7 @@ Stats (to be confirmed):
 _5 services:_
 
 [Speak to someone if you’re feeling alone or distressed](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#speak-to-someone-if-youre-feeling-alone-or-distressed)<br>
+[Find mental health support]
 [Find somewhere safe to live long term](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#finding-somewhere-safe-to-live-long-term)<br>
 [Replace damaged furniture](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#replace-damaged-furniture)<br>
 [Repair your home after a flood or fire](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#repair-your-home-after-a-flood-or-fire)<br>
@@ -1046,6 +1047,38 @@ Whos involved:
 * [Signposting tool](https://operator-manual.redcross.org.uk/signposting/)
 
 Software systems, Red Cross are used:
+
+> To be confirmed
+
+Stats (to be confirmed):
+
+* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
+### Find mental health support 
+
+Tasks for service users:
+
+1. Learn about mental health support 
+2. Contact organisation for support 
+
+How is this service delivered now:
+
+* Emergency response volunteers assess service user's situation
+* Emergency responve volunteers direct service user to other organisations 
+* Support line volunteers assess service user's situation
+* Support line volunteers direct service service user to other organisations
+
+Whos involved: 
+
+* Emergency responce volunteers
+* Support line volunteers
+* [Mind](https://www.mind.org.uk/information-support/guides-to-support-and-services/crisis-services/helplines-listening-services/) 
+* [Samaritans](https://www.samaritans.org/)  
+
+Software systems, Red Cross are used:
+
+* Support line
 
 > To be confirmed
 
